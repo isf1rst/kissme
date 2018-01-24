@@ -1,5 +1,4 @@
-# XMR-Stak is now supporting CPU, AMD and NVIDIA GPUs in a unified miner.
+# XMR-Stak 去捐赠版
 
-Our new repository is https://github.com/fireice-uk/xmr-stak.
-
-Please use our new miner, the old version is retired and unsupported.
+仅供个人使用 
+如有侵权 联系q：214763817
